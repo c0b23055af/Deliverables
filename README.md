@@ -1,4 +1,4 @@
-# AI Game Simulators
+# AI simulation
 
 このリポジトリには、以下の3つのゲームにおいてAIの戦略を比較・評価するためのPythonシミュレーターが含まれています：
 
